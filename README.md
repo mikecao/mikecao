@@ -15,6 +15,7 @@ Maker of software. Founder of [**Umami**](https://umami.is). Viber of code.
 - [**Dream**](https://dreamide.app) — Frontier IDE built for AI coding.
 - [**Astrofox**](https://astrofox.io) — Motion graphics program for audio reactive visuals.
 - [**Noto**](https://github.com/mikecao/noto) — Simple notes application with cloud sync.
+- [**Codemeter**](https://github.com/mikecao/codemeter) — Track your Claude Code and Codex usage.
 - [**Get Down**](https://github.com/mikecao/get-down) — Download manager powered by yt-dlp.
 - [**Reddit Pixels**](https://github.com/mikecao/reddit-pixels) — Better browsing experience for media from reddit.
 - [**Zen**](https://zen.umami.is) — Props-driven React component library built for speed.
