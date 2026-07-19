@@ -17,7 +17,7 @@ Maker of software. Founder of [**Umami**](https://umami.is). Viber of code.
 - [**Noto**](https://github.com/mikecao/noto) — Simple notes application with cloud sync.
 - [**Codemeter**](https://github.com/mikecao/codemeter) — Track your Claude Code and Codex usage.
 - [**Get Down**](https://github.com/mikecao/get-down) — Download manager powered by yt-dlp.
-- [**Partty**](https://github.com/mikecao/partty) — A terminal emulators that remembers.
+- [**Partty**](https://github.com/mikecao/partty) — A terminal emulator that remembers.
 - [**Reddit Pixels**](https://github.com/mikecao/reddit-pixels) — Better browsing experience for media from reddit.
 - [**Zen**](https://zen.umami.is) — Props-driven React component library built for speed.
 - [**Flight**](https://flightphp.com) — PHP micro-framework designed for lightweight web development.
